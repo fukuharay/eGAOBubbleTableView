@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8B743E5A-4C92-439F-BBF9-606B3CF6A90F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>UIBubbleTableViewExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>467DCB1E3B3206FB788499D9821DDB166E5A7FC3</key>
+		<string>github.com:fukuharay/test5.git</string>
+		<key>EB71815BF69D2239C81F46E39D0EC2AE87C66380</key>
+		<string>https://github.com/fukuharay/UIBubbleTableView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>example/UIBubbleTableViewExample.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>467DCB1E3B3206FB788499D9821DDB166E5A7FC3</key>
+		<string>../../../..</string>
+		<key>EB71815BF69D2239C81F46E39D0EC2AE87C66380</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/fukuharay/UIBubbleTableView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EB71815BF69D2239C81F46E39D0EC2AE87C66380</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>467DCB1E3B3206FB788499D9821DDB166E5A7FC3</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EB71815BF69D2239C81F46E39D0EC2AE87C66380</string>
+			<key>IDESourceControlWCCName</key>
+			<string>UIBubbleTableView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
